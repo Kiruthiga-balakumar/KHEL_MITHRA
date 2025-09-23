@@ -1,0 +1,14 @@
+{
+  "total_reps": 3,
+  "reps_per_sec": 0.1,
+  "consistency": 0.02,
+  "avg_pause_length_sec": 4.71,
+  "overall_score": 62.93,
+  "status": "Fail",
+  "is_tampered": false,
+  "is_valid": true,
+  "tips": [
+    "Improve form consistency: Keep torso angle steady.",
+    "Reduce pauses: Keep under 2 seconds between reps."
+  ]
+}

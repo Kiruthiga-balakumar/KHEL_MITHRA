@@ -1,0 +1,16 @@
+{
+  "total_reps": 8,
+  "reps_per_sec": 0.1,
+  "consistency": 0.04,
+  "avg_pause_length_sec": 4.03,
+  "overall_score": 63.95,
+  "duration_sec": 76.62,
+  "status": "Fail",
+  "is_tampered": false,
+  "is_valid": true,
+  "dynamic_tips": [
+    "2. Keep your body straight, avoid slouching.",
+    "3. Take a 1-2 second break, use counting to help.",
+    "5. Use a mat on the floor for comfort."
+  ]
+}
